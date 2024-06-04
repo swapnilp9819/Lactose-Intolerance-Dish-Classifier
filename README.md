@@ -7,7 +7,7 @@ This project develops a machine learning model to classify dishes based on wheth
 The goal of this project is to accurately classify dishes as either containing lactose or being lactose-free based on their names alone. This solution can be particularly useful in applications like menu planning apps, dietary tracking, and nutritional advice platforms, where quick and accurate classification can significantly enhance user experience and dietary safety.
 
 ## Dataset Description
-The dataset comprises 3,250 images from the MLEnd Yummy Dataset. The images are initially uncategorized; categorization into two classes—rice and chips—is performed using keywords ('rice', 'biryani', 'chips', 'fries') identified in the dish names and ingredients. The dataset can be accessed and downloaded directly into a Python environment using the provided code snippet:
+The dataset comprises 3,250 images from the MLEnd Yummy Dataset. The dataset can be accessed and downloaded directly into a Python environment using the provided code snippet:
 ```python
 from mlend import download_yummy
 drive.mount('/content/drive')
