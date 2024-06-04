@@ -9,6 +9,7 @@ The goal of this project is to accurately classify dishes as either containing l
 ## Dataset Description
 The dataset comprises 3,250 images from the MLEnd Yummy Dataset. The dataset can be accessed and downloaded directly into a Python environment using the provided code snippet:
 ```python
+!pip install mlend
 from mlend import download_yummy
 drive.mount('/content/drive')
 baseDir = download_yummy(save_to='/path/to/save')
