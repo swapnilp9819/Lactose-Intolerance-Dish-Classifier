@@ -1,4 +1,4 @@
-# Lactose-Intolerance-Dish-Classifier
+# MLEnd-Lactose-Intolerance-Dish-Classifier
 
 This project develops a machine learning model to classify dishes based on whether they are suitable for individuals with lactose intolerance. Utilizing text data (dish names) and employing a TF-IDF vectorized approach with a Linear Support Vector Classifier (LinearSVC), this project aims to assist those with dietary restrictions in making informed food choices.
 
